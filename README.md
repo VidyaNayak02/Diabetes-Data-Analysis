@@ -1,4 +1,7 @@
 # Diabetes-Data-Analysis
-The project explains  analysis of the Diabetes Prediction Dataset from Kaggle.This project has been carried out using python language..  
-The analysis includes data visualization and exploration of health indicators such as age, BMI, blood glucose level, HbA1c level, hypertension, and heart disease.
-Data analysis and visualization of Diabetes Prediction Dataset using Python
+This project presents an analysis of the Diabetes Prediction Dataset obtained from Kaggle. The analysis was performed using Python.
+The project focuses on data visualization and exploration of important health indicators such as age, BMI, blood glucose level, HbA1c level, hypertension, and heart disease.
+Author
+Vidya Nayak
+Project Note
+This project was assigned as a group academic project. The data analysis, visualizations, and report preparation were primarily completed by Vidya Nayak.
