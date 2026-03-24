@@ -4,4 +4,4 @@ The project focuses on data visualization and exploration of important health in
 Author:
 Vidya Nayak.
 Project Note:
-This project was assigned as a group academic project. The data analysis, visualizations, and report preparation were primarily completed by Vidya Nayak.
+This project was assigned as a group academic project. The data analysis, visualizations, and report preparation were primarily completed by Vidya Nayak.I have uploaded my version to showcase my personal contribution and skills.
